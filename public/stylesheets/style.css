@@ -1,0 +1,29 @@
+.con{
+  width:720px;
+  margin:0 auto;
+  padding-top:25px;
+}
+.p{
+  line-height: 30px;
+  font-size: 20px;
+  text-align: center;
+  margin-top: 15px;
+}
+.form-item{
+  margin-bottom: 15px;
+}
+.form-item input{
+  width:250px;
+
+}
+.submit{
+  width:340px;
+  background-color: #00acee;
+  color:#fff;
+  line-height: 40px;
+  height:40px;
+  border: none;
+}
+.diylabel{width:120px;}
+.layui-upload-list{margin-left: 120px;width:600px;}
+#testListAction{margin-left: 120px}
